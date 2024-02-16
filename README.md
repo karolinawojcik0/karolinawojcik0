@@ -16,4 +16,30 @@ Hey, I'm Karolina Wójcik👋
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs" />
   </a>
-</p> 
+</p>
+
+## 📊 GitHub stats
+<details>
+  <summary>
+    Contribution stats
+  </summary>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=karolinawojcik0&show_icons=true&theme=transparent" alt="Karolina's GitHub stats" />
+  </p>
+</details>
+
+<details>
+  <summary>
+    Top Languages
+  </summary>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karolinawojcik0&layout=compact" alt="Top Langs" />
+  </p>
+</details>
+
+
+
+
+
