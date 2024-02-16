@@ -18,7 +18,7 @@ Hey, I'm Karolina Wójcik👋
   </a>
 </p>
 
-## 📊 GitHub stats
+## 📊 GitHub stats:
 
 <details>
   <summary>
