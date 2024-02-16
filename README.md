@@ -19,6 +19,16 @@ Hey, I'm Karolina Wójcik👋
 </p>
 
 ## 📊 GitHub stats
+
+<details>
+  <summary>
+    General
+  </summary>
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karolinawojcik0&theme=city_lights" alt="Profile Details" style="display: block; margin: 0 auto;">
+  </p>
+</details>
+
 <details>
   <summary>
     Contribution stats
