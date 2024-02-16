@@ -5,11 +5,16 @@
 </p>
 
 ## 💪🏽 Skills and Experience:
-* HTML5
-* CSS
-* JavaScript
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  </a>
+</p>
 
 
 ## 🌱 I’m currently learning:
-* React,
-* NodeJS
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs" />
+  </a>
+</p>
