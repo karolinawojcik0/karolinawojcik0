@@ -6,7 +6,7 @@ Hey, I'm Karolina Wójcik👋
 ## 💪🏽 Skills and Experience:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@ Hey, I'm Karolina Wójcik👋
 ## 🌱 I’m currently learning:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
 </p>
 
